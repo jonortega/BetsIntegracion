@@ -1,0 +1,51 @@
+
+(domain.Quote#equals(Ljava/lang/Object;)ZQ
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javan n("startingBlock*Ñ
+2Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javap p(ˆ
+…
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javap p(
+qdomain.Quote"__id*
+
+ojava.lang.ObjectÅÂ
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javaq
+ q(
+%0java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+domain.Quote2getQuoteNumber()ÈÅ
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javaq! q(3
+%1java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+qdomain.Quote2getQuoteNumber()"[
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javaq q(4
+""*Œ
+startingBlockQ
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javan n( ™
+–
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javam m(
+
+%2"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Objectƒ
+€
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javan n(
+ojava.lang.Object"__annotation*
+
+%2*
+2
+1*³
+1Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javas
+ s("[
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Quote.javas s(
+"":
+ojava.lang.ObjectB
+domain.Quote

@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.java] ]("1*Æ
+1Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.java^	 ^(˜
+•
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.java^	 ^(
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumberš
+—
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.java^	 ^(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;—
+”
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.java^ ^($
+%2java.lang.String"__id*!*
+domain.Event"
+description¬
+©
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.java^	 ^($
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"m
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.java^ ^(%
+
+%3java.lang.StringB
+domain.Event
